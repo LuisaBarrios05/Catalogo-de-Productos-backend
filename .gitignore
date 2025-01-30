@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# Configuración específica del proyecto
+config/db.js
+
+# Archivos de logs
+*.log
+
+# Archivos que no deberían estar en producción
+scripts/
